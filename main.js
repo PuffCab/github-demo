@@ -149,3 +149,4 @@ for (let x in car) {
 
 console.log(car.brand);
 console.log(car.doors);
+console.log("new line");
